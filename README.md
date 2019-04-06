@@ -1,5 +1,5 @@
-# GY 5
-## `select`-es megoldás a jobb
+# GY 4
+__`select`-es megoldás a jobb__
 `struct(elso_tipusa masodik_tipusa harmadik_tipiusa)` ahol `I` az Integer, `2s` a két karakterből álló string, stb
 
 **Bezárt szocketet nem lehet a `select`nek átadni!**
